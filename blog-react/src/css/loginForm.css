@@ -1,0 +1,12 @@
+.create_button {
+    float: right;
+    /* 아래쪽의 다른 컴포넌트, 태그에 
+    * both:clear를 넣어서 float영향을 받지않게 작성*/
+}
+.my_center {
+    text-align: center;
+}
+
+.hint_text {
+    color: grey;
+}
